@@ -4,7 +4,11 @@ El escenario **"Captura de leads inmobiliarios"** tiene como objetivo centraliza
 
 **Enlace de inicio del flujo :** 
 
-**https://forms.gle/kdhcTRWNAHrzYW8z5**
+[**https://forms.gle/kdhcTRWNAHrzYW8z5**](https://forms.gle/kdhcTRWNAHrzYW8z5)
+
+**Enlace a videos y imagenes :** 
+
+**https://drive.google.com/drive/folders/1ZhNgYNe8xhRXp9JwbnFhZ1Qi-xdTcQt3?usp=sharing**
 
 ### **1\. Resumen del Flujo de Trabajo**
 
